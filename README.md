@@ -1,6 +1,7 @@
 # Dennis Sila Muia- *AI Student at IYF We Can Academy.*
 # week4-ai-assignment
 
+
 # Part 1: Data Foundations
 ## Question 1
 
@@ -17,13 +18,14 @@ Data is information that can be text, numbers or images. It can be collected, st
    
 ## Question 2 
 ###Explain the difference between:
+
 ###Structured Data+
 
 It is organised data that is stored in rows and columns for ease of storage, searching and analysing in relational databases.
 
 ###Unstructured Data
 
-information that lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
+information that is lacks order i.e. lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
 
 ###Give two Examples of each.
 
