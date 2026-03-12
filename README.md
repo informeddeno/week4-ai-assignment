@@ -28,6 +28,7 @@ It is organised data that is stored in rows and columns for ease of storage, sea
 It is information that is lacks order i.e. lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
 
 ### Give two Examples of each.
+
 ## Structured data:
 Relational Databases containing customers names, addresses and phone numbers in an SQL table. 
 Spreadsheets/CSV Files.
@@ -35,9 +36,28 @@ Web Server Logs that display Date, Time, and IP address of website visits.
 
 ## Unstructured data:
 emails, social media posts.
-Question 3
-What is a  Schema?
-Explain using a simple example.
+
+
+## Question 3
+### What is a  Schema?
+A schema is a technical blueprint in computing defining database structure (tables, fields, relationships). It helps simplify complex information, allows for quick processing
+
+### Explain using a simple example:
+
+CREATE TABLE Customers (
+    customer_id INT NOT NULL PRIMARY KEY,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    email VARCHAR(100),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+#### Key Components of above Simple Schema:
+Table Name: The entity being described (e.g., Customers).
+Field/Column Names: Specific attributes (e.g., first_name, email).
+Data Types: Defines the type of data (e.g., INT for integers, VARCHAR for text).
+Constraints: Rules for data, such as PRIMARY KEY for uniqueness or NOT NULL.
 
 Part 2: Python Basics
 
