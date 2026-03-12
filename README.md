@@ -1,6 +1,6 @@
 # Dennis Sila Muia- *AI Student at IYF We Can Academy.*
 
-## week4-ai-assignment
+# week4-ai-assignment
 
 # Part 1: Data Foundations
 ## Question 1
@@ -59,7 +59,10 @@ Field/Column Names: Specific attributes (e.g., first_name, email).
 Data Types: Defines the type of data (e.g., INT for integers, VARCHAR for text).
 Constraints: Rules for data, such as PRIMARY KEY for uniqueness or NOT NULL.
 
-Part 2: Python Basics
+# Part 2: Python Basics
+## (As done in the python file: assignment.py)
+
+
 
 Question 4
 
