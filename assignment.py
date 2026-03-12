@@ -7,9 +7,9 @@ name
 age
 city '''
 
-name = Alphonce Makacha
+name = "Alphonce Makacha"
 age = 26
-city = Mombasa
+city = "Mombasa"
 
 """ Print them so the output looks like this:
 
@@ -17,7 +17,7 @@ Name: John
 Age: 20
 City: Nairobi """
 
-print(name) /n print(age) /n print(city)
+print("Name:", name) /n print("Age:", age) /n print("City:" city)
 
 
 
