@@ -5,22 +5,24 @@
 ## Question 1
 
 ## What is Data?
+## Explain in your own words.
 
 Data is information that can be text, numbers or images. It can be collected, stored, analysed and measured.
 
-## Explain in your own words and give two Examples .
+## give two Examples.
 
 1. An example of data is the attendance register of students in a class room containing names and student registration no.'s.
-2. The other example is the census results for a given town showing it's demographic data and incomes.
+2. Another example is the census results for a given town's population showing it's demographic data and incomes.
    
 ## Question 2 
 ###Explain the difference between:
-###Structured Data
+###Structured Data+
+
 It is organised data that is stored in rows and columns for ease of storage, searching and analysing in relational databases.
 
 ###Unstructured Data
 
-
+information that lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
 
 ###Give two Examples of each.
 
