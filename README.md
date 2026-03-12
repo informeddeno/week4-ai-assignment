@@ -17,17 +17,17 @@ Data is information that can be text, numbers or images. It can be collected, st
    and migration; the results also show demographics such as age, gender, income, occupation and location.
    
 ## Question 2 
-###Explain the difference between:
+### Explain the difference between:
 
-###Structured Data+
+### Structured Data+
 
 It is organised data that is stored in rows and columns for ease of storage, searching and analysing in relational databases.
 
-###Unstructured Data
+### Unstructured Data
 
 information that is lacks order i.e. lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
 
-###Give two Examples of each.
+### Give two Examples of each.
 
 Question 3
 What is a  Schema?
