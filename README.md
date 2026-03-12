@@ -1,4 +1,4 @@
-# Dennis Sila Muia-AI student.
+# Dennis Sila Muia-AI Student at IYF We Can Academy.
 # week4-ai-assignment
 
 # Part 1: Data Foundations
@@ -12,7 +12,8 @@ Data is information that can be text, numbers or images. It can be collected, st
 ## give two Examples.
 
 1. An example of data is the attendance register of students in a class room containing names and student registration no.'s.
-2. Another example is the census results for a given town's population showing it's demographic data and incomes.
+2. The census results for a given town's population for use in demography to show it's population's trends in birth-rate, death-rate 
+   and migration; the results also show demographics such as age, gender, income, occupation and location.
    
 ## Question 2 
 ###Explain the difference between:
