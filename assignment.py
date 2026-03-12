@@ -14,10 +14,23 @@ city = "Mombasa"
 """ Print them so the output looks like this:
 
 Name: John
-Age: 20
+Age: 20  
 City: Nairobi """
 
 print("Name:", name) /n print("Age:", age) /n print("City:" city)
+
+""" Create a list of five programming languages.
+
+Example:
+["Python", "Java", "C++", "JavaScript", "Go"]"
+
+prog_languages = ["Ruby", "C", "Java", "Rust", "Python"]
+
+# Print the first language in the list.
+
+print(prog_languages[0]}
+
+'''
 
 
 
