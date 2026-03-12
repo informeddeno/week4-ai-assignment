@@ -1,4 +1,4 @@
-# Dennis Sila Muia-AI Student at IYF We Can Academy.
+# Dennis Sila Muia- * AI Student at IYF We Can Academy.*
 # week4-ai-assignment
 
 # Part 1: Data Foundations
