@@ -2,6 +2,7 @@
 # week4-ai-assignment
 
 
+
 # Part 1: Data Foundations
 ## Question 1
 
