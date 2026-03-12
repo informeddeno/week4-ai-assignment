@@ -45,6 +45,7 @@ A schema is a technical blueprint in computing defining database structure (tabl
 ### Explain using a simple example:
 
 CREATE TABLE Customers (
+
     customer_id INT NOT NULL PRIMARY KEY,
     first_name VARCHAR(50),
     last_name VARCHAR(50),
