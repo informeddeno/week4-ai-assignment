@@ -1,1 +1,75 @@
+# Dennis Sila Muia-AI student.
 # week4-ai-assignment
+
+# Part 1: Data Foundations
+## Question 1
+
+## What is Data?
+
+Data is information that can be text, numbers or images. It can be collected, stored, analysed and measured.
+
+## Explain in your own words and give two Examples .
+
+1. An example of data is the attendance register of students in a class room containing names and student registration no.'s.
+2. The other example is the census results for a given town showing it's demographic data and incomes.
+   
+## Question 2 
+###Explain the difference between:
+###Structured Data
+It is organised data that is stored in rows and columns for ease of storage, searching and analysing in relational databases.
+
+###Unstructured Data
+
+
+
+###Give two Examples of each.
+
+Question 3
+What is a  Schema?
+Explain using a simple example.
+
+Part 2: Python Basics
+
+Question 4
+
+Write a Python program that prints the following message:
+Hello AI Students
+
+Question 5
+
+Create the following variables in Python:
+name
+age
+city
+Print them so the output looks like this:
+
+Name: John
+Age: 20
+City: Nairobi
+
+Question 6
+Create a list of five programming languages.
+
+Example:
+["Python", "Java", "C++", "JavaScript", "Go"]
+
+Print the first language in the list.
+
+Question 7
+Create a dictionary  with the following student information:
+Name
+Age
+Course
+Print the student's name.
+
+Example dictionary format:
+student = {
+"name": "John",
+"age": 21,
+"course": "AI"
+}
+
+Bonus Question (Optional)
+Explain the difference between:
+A list
+A dictionary
