@@ -25,10 +25,16 @@ It is organised data that is stored in rows and columns for ease of storage, sea
 
 ### Unstructured Data
 
-information that is lacks order i.e. lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
+It is information that is lacks order i.e. lacks a predefined format or data model, making it difficult to store and process in traditional relational databases.
 
 ### Give two Examples of each.
+## Structured data:
+Relational Databases containing customers names, addresses and phone numbers in an SQL table. 
+Spreadsheets/CSV Files.
+Web Server Logs that display Date, Time, and IP address of website visits.
 
+## Unstructured data:
+emails, social media posts.
 Question 3
 What is a  Schema?
 Explain using a simple example.
