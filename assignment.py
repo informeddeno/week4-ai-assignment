@@ -22,15 +22,36 @@ print("Name:", name) /n print("Age:", age) /n print("City:" city)
 """ Create a list of five programming languages.
 
 Example:
-["Python", "Java", "C++", "JavaScript", "Go"]"
+["Python", "Java", "C++", "JavaScript", "Go"]"""
 
 prog_languages = ["Ruby", "C", "Java", "Rust", "Python"]
 
-# Print the first language in the list.
+"""# Print the first language in the list."""
 
 print(prog_languages[0]}
 
-'''
+'''Create a dictionary  with the following student information:
+Name
+Age
+Course
+Example dictionary format:
+student = {
+"name": "John",
+"age": 21,
+"course": "AI"
+}'''
+
+student = {
+  "Name": "Alice",
+  "Age": 20,
+  "Course": "Computer Science"
+}
+
+#Print the student's name.
+
+print(student["Name"])
+# Output: Alice
+
 
 
 
