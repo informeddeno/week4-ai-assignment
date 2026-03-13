@@ -104,7 +104,11 @@ student = {
 "course": "AI"
 }
 
-Bonus Question (Optional)
-Explain the difference between:
-A list
-A dictionary
+# Bonus Question (Optional)
+## Explain the difference between:
+### A list
+### A dictionary
+
+A list Stores an ordered sequence of items. Items are accessed by their position (index), starting from 0. Ideal for collections where the order of items matters or when you need to access items by position.	
+
+A dictionary Stores data in key-value pairs. Items are accessed by their unique keys. Ideal for collections where you need to associate data points (like a name with an age) and quickly look up information by a specific identifier.
